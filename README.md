@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zedbits
-- 👀 I’m interested in programming, not hiking, not fishing and not flat-water kayaking
+- 👀 I’m interested in programming, cybersecurity, and tinkering with computers.
 - 🌱 I’m currently learning Git and GitHub
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ... you don't
+- 📫 How to reach me: [byteof.zed@gmail.com](sendto:byteof.zed@gmail.com)
