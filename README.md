@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zedbits
+- 👋 Hi, I’m Zi Hang Lin aka @Zedbits
 - 👀 I’m interested in programming, cybersecurity, and tinkering with computers.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on projects.
